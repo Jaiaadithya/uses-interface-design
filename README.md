@@ -1,0 +1,1 @@
+This project is a graphical user interface (GUI) application developed using Python’s Tkinter library. The primary goal of the project was to create a user-friendly interface that simplifies interaction with the underlying functionality of the application.
